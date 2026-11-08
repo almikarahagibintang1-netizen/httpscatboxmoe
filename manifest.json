@@ -1,0 +1,15 @@
+{
+  "name": "almika",
+  "short_name": "almika",
+  "start_url": "https://catbox.moe/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#00ffcc",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/104/104343.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
